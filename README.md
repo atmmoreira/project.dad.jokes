@@ -12,9 +12,10 @@
 </div>
 
 ## Description
-This project is to trainning javascript and CSS. <br />
-Consuming API: `https://dadjokes.io/documentation/endpoints/random-jokes` <br />
-It is a simple project to Dad Jokes.
+This project is to trainning javascript and CSS. It is a simple project to Dad Jokes. <br />
+API Documentation: `https://dadjokes.io/documentation/endpoints/random-jokes` <br />
+If you have some problem to see the Jokes, please **SUBSCRIBE:** `https://rapidapi.com/KegenGuyll/api/dad-jokes`, because as free subscriber, you only can made a 50 request per day.
+
 
 ## Screens Layout
 <div align="center">
@@ -38,8 +39,6 @@ It is a simple project to Dad Jokes.
 
 ## Getting Started With Local Development Configuration
 ```bash
-# API https://dadjokes.io/documentation/getting-started
-# Subscribe https://rapidapi.com/KegenGuyll/api/dad-jokes, if the API don't work, because its free and you can only made a 50 request per day.
 # Download or clone the repository.
 # Open the project inside your favorite IDE (I use VSCode).
 # In your terminal, type: `npm install`, to install vite and dependencies.
