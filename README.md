@@ -38,6 +38,8 @@ It is a simple project to Dad Jokes.
 
 ## Getting Started With Local Development Configuration
 ```bash
+# API https://dadjokes.io/documentation/getting-started
+# Subscribe https://rapidapi.com/KegenGuyll/api/dad-jokes, if the API don't work, because its free and you can only made a 50 request per day.
 # Download or clone the repository.
 # Open the project inside your favorite IDE (I use VSCode).
 # In your terminal, type: `npm install`, to install vite and dependencies.
